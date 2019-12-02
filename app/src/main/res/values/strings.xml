@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Unicel</string>
+    <string name="app_name_fa">یونیسل</string>
     <string name="title_activity_main">MainActivity</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_1" translatable="true">انتخاب واحد</string>
+    <string name="tab_text_2" translatable="true">گالری جزوه</string>
+    <string name="tab_text_3" translatable="true">دوستان من</string>
+    <string name="tab_text_4" translatable="true">برنامه و اعلان ها</string>
 </resources>
